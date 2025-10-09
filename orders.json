@@ -1,0 +1,47 @@
+{
+  "S48163": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Didierstraße 13, 56112 Lahnstein, Deutschland",
+    "receiver": "Philip Kretzdorn, Mühlbachweg 23A, 83700 Kreuth, Deutschland",
+    "price": "2.500 €",
+    "description": "Hersteller: Simson<br>Typ: S 50<br>Fahrgestelnummer: 4594212<br>Erstzulassung: 07/1977<br>KM laut Vorbesitzer: 2 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 49 cm³<br>Farbe: Grün<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Philip Kretzdorn<br>Mühlbachweg 23A<br>83700 Kreuth<br>Deutschland<br>Telefon: +49 1514 1609283",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "09-10-2025",
+    "deliveryDate": "15-10-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
